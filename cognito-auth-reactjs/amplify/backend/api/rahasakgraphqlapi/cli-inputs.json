@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "rahasakgraphqlapi",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/eranga/Workspace/rahasak/labs/amplify/rahasak-app/amplify/backend/api/rahasakgraphqlapi/schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authrahasakapp0456c227"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rahasakapp-dev-221457-authRole",
+      "UnauthRoleArn": "arn:aws:iam::792406880025:role/amplify-rahasakapp-dev-221457-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::792406880025:role/amplify-rahasakapp-dev-221457-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-rahasakapp-dev-221457-deployment",
+      "UnauthRoleName": "amplify-rahasakapp-dev-221457-unauthRole",
+      "StackName": "amplify-rahasakapp-dev-221457",
+      "StackId": "arn:aws:cloudformation:us-east-1:792406880025:stack/amplify-rahasakapp-dev-221457/980e3d70-0251-11ed-892d-0e2df8bbefc1",
+      "AmplifyAppId": "d3i5l0gd37jxi6",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-rahasakapp-dev-221457-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "rahasakapp0456c227": {},
+        "true": {}
+      },
+      "function": {
+        "rahasakappauth": {
+          "deploymentBucketName": "amplify-rahasakapp-dev-221457-deployment",
+          "s3Key": "amplify-builds/rahasakappauth-7248482f497365453962-build.zip"
+        }
+      }
+    }
+  }
+}
