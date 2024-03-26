@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "paths": {
+    "/documents": {
+      "name": "/documents",
+      "lambdaFunction": "rahasakappauth",
+      "permissions": {
+        "setting": "protected",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ],
+        "guest": [
+          "read"
+        ]
+      }
+    }
+  }
+}

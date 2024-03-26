@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "rahasakgraphqlapi",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authrahasakapp0456c227",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

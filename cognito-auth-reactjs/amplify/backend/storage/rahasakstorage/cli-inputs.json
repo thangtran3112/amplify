@@ -1,0 +1,14 @@
+{
+  "resourceName": "rahasakstorage",
+  "policyUUID": "b186334a",
+  "bucketName": "rahasakappd0b36f487b634febb526f987dc1a4f03",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
